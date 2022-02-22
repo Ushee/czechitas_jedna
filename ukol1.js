@@ -1,4 +1,4 @@
-let jmeno = 34;
+let jmeno = "Misa";
 let věk = 30;
 let váha = 67;
 let výška = 171;
